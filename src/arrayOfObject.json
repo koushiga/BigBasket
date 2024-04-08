@@ -1,0 +1,299 @@
+{
+    "offer":[
+        {
+            "image":"./image/extra/hp_topstrip.png"
+        },
+        {
+            "image":"./image/extra/hp_topstrip_m.png"
+        },
+        {
+            "image":"./image/extra/hp_topstrip_mr.png"
+        },
+       
+        {
+            "image":"./image/extra/250923_04.png"
+        },
+        {
+            "image":"./image/extra/250923_05.png"
+        },
+       
+        {
+            "image":"./image/extra/250923_06.png"
+        }
+       
+    ],
+
+    "bigBasket":[
+        {
+            "image":"./image/homepage/40317730_5-adidas-india.png",
+            "brand":"Adidas",
+            "productName":"Official India Cricket ODI Fan Polo Colour Blue",
+            "rating":3.1
+
+        },
+        
+        {
+            "image":"./image/homepage/capsicum.jpg",
+            "brand":"Freshho",
+            "productName":"Capsicum - Green (Loose)",
+            "rating":null
+
+        },
+        
+        {
+            "image":"./image/homepage/carrot-orange.jpg",
+            "brand":"Freshho",
+            "productName":"Carrot - Orange (Loose)",
+            "rating":null
+
+        },
+        
+        {
+            "image":"./image/homepage/10000074_19-fresho-cauliflower.jpg",
+            "brand":"Freshho",
+            "productName":"Cauliflower",
+            "rating":null
+
+        }
+        
+    ],
+    "bankOffers":[
+        {
+            "image":"./image/BankOfOffers/t1_hp_aff_m_indus20_360_071123.jpg"
+        },
+        {
+            "image":"./image/BankOfOffers/t1_hp_aff_m_aubank_360_071123.jpg"
+        },
+        {
+            "image":"./image/BankOfOffers/t1_hp_aff_m_dbs_360_071123.jpg"
+        },
+        {
+            "image":"./image/BankOfOffers/4.jpg"
+        }
+    ],
+    "bestSellers":[
+        {
+            "image":"./image/bestseller/1206544_2-himalaya-baby-wipes-gentle-baby.png",
+            "brand":" Himalaya Baby",
+            "productName":"Wipes - Gentle Baby",
+            "rating":4.1,
+            "pcs":2,
+            "price":380,
+            "offers":20
+
+        },
+        {
+            "image":"./image/bestseller/40202339_4-pampers-baby-wipes-with-aloe.png",
+            "brand":" Pampers",
+            "productName":"Baby Wipes - With Aloe",
+            "rating":4.2,
+            "pcs":2,
+            "price":418,
+            "offers":20
+
+        },
+        {
+            "image":"./image/bestseller/1224870_1-littles-baby-wipes-with-aloe-vera-jojoba-oil-vitamin-e.png",
+            "brand":"Littles",
+            "productName":"Baby Wipes - With Aloe Vera, Jojoba Oil & Vitamin",
+            "rating":4,
+            "pcs":2,
+            "price":65,
+            "offers":20
+
+        },
+        {
+            "image":"./image/bestseller/1201459_3.png",
+            "brand":"BigBasket",
+            "productName":"Baby Wipes - Fresh, No Paraben, Double Moisturizing ",
+            "rating":3.1,
+            "pcs":2,
+            "price":315,
+            "offers":20
+
+        }
+    ],
+    "topOffers":[
+        {
+            "image":"./image/TopOffers/hp_dow-top.jpg"
+        },
+        {
+            "image":"./image/TopOffers/hp_big-packs.jpg"
+        },
+        {
+            "image":"./image/TopOffers/hp_combos-top.jpg"
+        },
+       
+        {
+            "image":"./image/TopOffers/hp_30-corner-top.jpg"
+        }
+       
+    ],
+    "fruitsAndVegtables":[
+        {
+            "image":"./image/fruits&vegetables/freshVegetables.jpg"
+        },
+        {
+            "image":"./image/fruits&vegetables/freshfruits.jpg"
+        },
+        {
+            "image":"./image/fruits&vegetables/cuts&exotics.jpg"
+        },
+       
+        {
+            "image":"./image/fruits&vegetables/herbs&seasonings.jpg"
+        }
+       
+    ],
+    "dailyStaples":[
+        {
+            "image":"./image/YourDailyStaples/hp_atta-flour.jpg"
+        },
+        {
+            "image":"./image/YourDailyStaples/hp_rice-staples.jpg"
+        },
+        {
+            "image":"./image/YourDailyStaples/hp_dals-pulses.jpg"
+        },
+       
+        {
+            "image":"./image/YourDailyStaples/hp_cooking-oils.jpg"
+        },
+        {
+            "image":"./image/YourDailyStaples/hp_dry-fruits.jpg"
+        },
+       
+        {
+            "image":"./image/YourDailyStaples/hp_salt.jpg"
+        }
+       
+    ],
+    "beverages":[
+        {
+            "image":"./image/beverage/hp_bev_m_health.jpg"
+        },
+        {
+            "image":"./image/beverage/hp_bev_m_tea.jpg"
+        },
+        {
+            "image":"./image/beverage/hp_bev_m.jpg"
+        },
+       
+        {
+            "image":"./image/beverage/hp_bev_m_juices.jpg"
+        },
+        {
+            "image":"./image/beverage/hp_bev_m_energy.jpg"
+        },
+       
+        {
+            "image":"./image/beverage/hp_bev_m_soft.jpg"
+        }
+       
+       
+    ],
+    "snacksStore":[
+        {
+            "image":"./image/snacksStore/1.jpg"
+        },
+        {
+            "image":"./image/snacksStore/2.jpg"
+        },
+        {
+            "image":"./image/snacksStore/3.jpg"
+        },
+       
+        {
+            "image":"./image/snacksStore/4.jpg"
+        }
+       
+    ],
+    "cleaning":[
+        {
+            "image":"./image/Cleaning/hp_c&h.jpg"
+        },
+        {
+            "image":"./image/Cleaning/hp_c&h_m.jpg"
+        },
+        {
+            "image":"./image/Cleaning/hp_c&h_m_paper.jpg"
+        },
+       
+        {
+            "image":"./image/Cleaning/hp_c&h_m_freshner.jpg"
+        }
+       
+    ],
+    "beautyAndHygieue":[
+        {
+            "image":"./image/Beauty/hp_b&h_m_-makeup.jpg"
+        },
+        {
+            "image":"./image/Beauty/hp_b&h_m_mo.jpg"
+        },
+        {
+            "image":"./image/Beauty/hp_b&h_m_perfumes.jpg"
+        },
+       
+        {
+            "image":"./image/Beauty/hp_b&h_m_mens.jpg"
+        },
+        {
+            "image":"./image/Beauty/hp_b&h_m_minimum.jpg"
+        },
+       
+        {
+            "image":"./image/Beauty/hp_b&h_m_big-pack-bigger.jpg"
+        }
+       
+       
+    ],
+    "homeAndKitchen":[
+        {
+            "image":"./image/Kitchen/hp_GMunder-99.jpg"
+        },
+        {
+            "image":"./image/Kitchen/hp_GM100-199_m.jpg"
+        },
+        {
+            "image":"./image/Kitchen/hp_GMStorefront-pressure-cooker.jpg"
+        },
+       
+        {
+            "image":"./image/Kitchen/hp_GMStorefront-stationery.jpg"
+        },
+        {
+            "image":"./image/Kitchen/hp_GM-storage-container.jpg"
+        },
+       
+        {
+            "image":"./image/Kitchen/hp_GM-cleaning-needs.jpg"
+        }
+       
+    ],
+    "brandStore":[
+        {
+            "image":"./image/Brands/amul-hp.jpg"
+        },
+        {
+            "image":"./image/Brands/dettol-hp.jpg"
+        },
+        {
+            "image":"./image/Brands/coca-cola-hp.jpg"
+        },
+       
+        {
+            "image":"./image/Brands/loreal-hp.jpg"
+        },
+
+        {
+            "image":"./image/Brands/Baulli_hp.jpg"
+        },
+
+        {
+            "image":"./image/Brands/durex-hp.jpg"
+        }
+       
+    ]
+
+}

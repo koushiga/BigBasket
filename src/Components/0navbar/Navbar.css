@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:80%;
+    margin: 20px auto;
+}
+.margin{
+    margin: 0 auto !important;
+}
+.row{
+    display: flex;
+    flex-wrap:wrap;
+}
+.col1{
+    width: 8.33%;
+    padding: 0 15px;
+}
+.col2{
+    width:16.33% ;
+    padding:0 15px ;
+}
+.col6{
+    width: 50%;
+    padding:0 15px ;
+}
+.navlogo img{
+    width:80%;
+}
+.searchbar{
+    padding: 10px 0;
+}
+.sebar{
+    border: 1px solid gray;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+.searchicon{
+    color:#76b900;
+    font-size: 22px;
+}
+
+.searchbar input{
+    width: 90%;
+    padding: 10px 0;
+    border: none;
+    outline: none;
+}
+.locationicon{
+    border:none;
+    background-color: rgba(166, 174, 187, 0.5);
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 8px 0;
+}
+.locationicon a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+.compass{
+    font-size: 20px;
+}
+.login{
+    margin: 10px 0;
+    padding: 8px 0;
+}
+.login a{
+    text-decoration: none;
+    color:white;
+    background-color: black;
+    padding: 6px 20px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+.addtocard{
+    
+    border:none;
+    background-color:  rgba(166, 174, 187, 0.5);
+    border-radius: 5px;
+    margin: 10px 0;
+    width: 50%;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.baskesticon{
+    border:none;
+    border-radius: 25px;
+    background-color: rgb(224, 84, 108);
+    color: white;
+    font-size: 24px;
+    padding: 2px 0;
+
+}

@@ -1,0 +1,11 @@
+h2{
+    text-align: start;
+    padding: 0 15px;
+}
+
+.beverageImage{
+    margin: 20px 0;
+}
+.beverageImage img{
+ width: 100%;
+}

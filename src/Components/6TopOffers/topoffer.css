@@ -1,0 +1,8 @@
+.offerImage{
+    margin: 20px 0;
+}
+
+.offerImage img{
+    width: 100%;
+    border-radius: 5px;
+}

@@ -1,0 +1,36 @@
+.best_seller{
+    box-shadow: rgb(96 96 96 / 71%) 0px 4px 8px;
+    padding: 15px;
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 340px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.bestImg img{
+    width: 100%;
+    border: 1px solid #80808061;
+    padding: 10px;
+    border-radius: 5px;
+}
+.bestcontent{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    align-items: start;
+    text-align: start;
+}
+.bestcontent span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+}
+.bestcontent .brand{
+    color: gray;
+}
+.bestcontent span .iocn{
+    color: green;
+}
